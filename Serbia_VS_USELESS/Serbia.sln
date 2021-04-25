@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Serbia", "Serbia.vcxproj", "{431AEF27-488B-457F-A29C-99059D7E31F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{431AEF27-488B-457F-A29C-99059D7E31F2}.Debug|x64.ActiveCfg = Debug|x64
+		{431AEF27-488B-457F-A29C-99059D7E31F2}.Debug|x64.Build.0 = Debug|x64
+		{431AEF27-488B-457F-A29C-99059D7E31F2}.Debug|x86.ActiveCfg = Debug|Win32
+		{431AEF27-488B-457F-A29C-99059D7E31F2}.Debug|x86.Build.0 = Debug|Win32
+		{431AEF27-488B-457F-A29C-99059D7E31F2}.Release|x64.ActiveCfg = Release|x64
+		{431AEF27-488B-457F-A29C-99059D7E31F2}.Release|x64.Build.0 = Release|x64
+		{431AEF27-488B-457F-A29C-99059D7E31F2}.Release|x86.ActiveCfg = Release|Win32
+		{431AEF27-488B-457F-A29C-99059D7E31F2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1449B32-404E-4802-9A92-A9520892B3AC}
+	EndGlobalSection
+EndGlobal

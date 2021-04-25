@@ -1,0 +1,101 @@
+In file included from C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/Button.cpp:5:
+In file included from C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/Button.h:8:
+C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/import.h:16:9: warning: 'ANDROID' macro redefined [-Wmacro-redefined]
+#define ANDROID "ANDROID"
+        ^
+<command line>:3:9: note: previous definition is here
+#define ANDROID 1
+        ^
+1 warning generated.
+In file included from C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/Shapes.cpp:5:
+In file included from C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/Shapes.h:8:
+C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/import.h:16:9: warning: 'ANDROID' macro redefined [-Wmacro-redefined]
+#define ANDROID "ANDROID"
+        ^
+<command line>:3:9: note: previous definition is here
+#define ANDROID 1
+        ^
+1 warning generated.
+In file included from C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/main.cpp:6:
+In file included from C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/looper.h:4:
+C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/import.h:16:9: warning: 'ANDROID' macro redefined [-Wmacro-redefined]
+#define ANDROID "ANDROID"
+        ^
+<command line>:3:9: note: previous definition is here
+#define ANDROID 1
+        ^
+1 warning generated.
+In file included from C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/Point.cpp:5:
+In file included from C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/Point.h:8:
+C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/import.h:16:9: warning: 'ANDROID' macro redefined [-Wmacro-redefined]
+#define ANDROID "ANDROID"
+        ^
+<command line>:3:9: note: previous definition is here
+#define ANDROID 1
+        ^
+1 warning generated.
+In file included from C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/MainMenu.cpp:5:
+In file included from C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/MainMenu.h:8:
+C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/import.h:16:9: warning: 'ANDROID' macro redefined [-Wmacro-redefined]
+#define ANDROID "ANDROID"
+        ^
+<command line>:3:9: note: previous definition is here
+#define ANDROID 1
+        ^
+1 warning generated.
+In file included from C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/Rectangle.cpp:5:
+In file included from C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/Rectangle.h:8:
+C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/import.h:16:9: warning: 'ANDROID' macro redefined [-Wmacro-redefined]
+#define ANDROID "ANDROID"
+        ^
+<command line>:3:9: note: previous definition is here
+#define ANDROID 1
+        ^
+1 warning generated.
+In file included from C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/looper.cpp:5:
+C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/import.h:16:9: warning: 'ANDROID' macro redefined [-Wmacro-redefined]
+#define ANDROID "ANDROID"
+        ^
+<command line>:3:9: note: previous definition is here
+#define ANDROID 1
+        ^
+1 warning generated.
+In file included from C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/Text.cpp:5:
+In file included from C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/Text.h:9:
+C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/import.h:16:9: warning: 'ANDROID' macro redefined [-Wmacro-redefined]
+#define ANDROID "ANDROID"
+        ^
+<command line>:3:9: note: previous definition is here
+#define ANDROID 1
+        ^
+1 warning generated.
+In file included from C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/Game.cpp:4:
+In file included from C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/Game.h:8:
+C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/import.h:16:9: warning: 'ANDROID' macro redefined [-Wmacro-redefined]
+#define ANDROID "ANDROID"
+        ^
+<command line>:3:9: note: previous definition is here
+#define ANDROID 1
+        ^
+C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/Game.cpp:126:5: warning: expression result unused [-Wunused-value]
+    randomval;
+    ^~~~~~~~~
+2 warnings generated.
+In file included from C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/Circle.cpp:5:
+In file included from C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/Circle.h:8:
+C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/import.h:16:9: warning: 'ANDROID' macro redefined [-Wmacro-redefined]
+#define ANDROID "ANDROID"
+        ^
+<command line>:3:9: note: previous definition is here
+#define ANDROID 1
+        ^
+1 warning generated.
+In file included from C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/GameOver.cpp:5:
+In file included from C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/GameOver.h:9:
+C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/jni/src/import.h:16:9: warning: 'ANDROID' macro redefined [-Wmacro-redefined]
+#define ANDROID "ANDROID"
+        ^
+<command line>:3:9: note: previous definition is here
+#define ANDROID 1
+        ^
+1 warning generated.

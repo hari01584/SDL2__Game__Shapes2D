@@ -1,0 +1,138 @@
+{
+  "buildFiles": [
+    "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk",
+    "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "main-debug-arm64-v8a": {
+      "artifactName": "main",
+      "buildCommand": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libmain.so",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a\\libmain.so",
+      "runtimeFiles": []
+    },
+    "SDL2_ttf-debug-arm64-v8a": {
+      "artifactName": "SDL2_ttf",
+      "buildCommand": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libSDL2_ttf.so",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a\\libSDL2_ttf.so",
+      "runtimeFiles": []
+    },
+    "FLAC-debug-arm64-v8a": {
+      "artifactName": "FLAC",
+      "buildCommand": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libFLAC.a",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a\\libFLAC.a",
+      "runtimeFiles": []
+    },
+    "png-debug-arm64-v8a": {
+      "artifactName": "png",
+      "buildCommand": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libpng.a",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a\\libpng.a",
+      "runtimeFiles": []
+    },
+    "jpeg-debug-arm64-v8a": {
+      "artifactName": "jpeg",
+      "buildCommand": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libjpeg.a",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a\\libjpeg.a",
+      "runtimeFiles": []
+    },
+    "ogg-debug-arm64-v8a": {
+      "artifactName": "ogg",
+      "buildCommand": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libogg.a",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a\\libogg.a",
+      "runtimeFiles": []
+    },
+    "timidity-debug-arm64-v8a": {
+      "artifactName": "timidity",
+      "buildCommand": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libtimidity.a",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a\\libtimidity.a",
+      "runtimeFiles": []
+    },
+    "mpg123-debug-arm64-v8a": {
+      "artifactName": "mpg123",
+      "buildCommand": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libmpg123.so",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a\\libmpg123.so",
+      "runtimeFiles": []
+    },
+    "vorbisidec-debug-arm64-v8a": {
+      "artifactName": "vorbisidec",
+      "buildCommand": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libvorbisidec.a",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a\\libvorbisidec.a",
+      "runtimeFiles": []
+    },
+    "SDL2_mixer-debug-arm64-v8a": {
+      "artifactName": "SDL2_mixer",
+      "buildCommand": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libSDL2_mixer.so",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a\\libSDL2_mixer.so",
+      "runtimeFiles": []
+    },
+    "webp-debug-arm64-v8a": {
+      "artifactName": "webp",
+      "buildCommand": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libwebp.a",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a\\libwebp.a",
+      "runtimeFiles": []
+    },
+    "freetype-debug-arm64-v8a": {
+      "artifactName": "freetype",
+      "buildCommand": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libfreetype.a",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a\\libfreetype.a",
+      "runtimeFiles": []
+    },
+    "modplug-debug-arm64-v8a": {
+      "artifactName": "modplug",
+      "buildCommand": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libmodplug.a",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a\\libmodplug.a",
+      "runtimeFiles": []
+    },
+    "SDL2-debug-arm64-v8a": {
+      "artifactName": "SDL2",
+      "buildCommand": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libSDL2.so",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a\\libSDL2.so",
+      "runtimeFiles": []
+    },
+    "hidapi-debug-arm64-v8a": {
+      "artifactName": "hidapi",
+      "buildCommand": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libhidapi.so",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a\\libhidapi.so",
+      "runtimeFiles": []
+    },
+    "SDL2_image-debug-arm64-v8a": {
+      "artifactName": "SDL2_image",
+      "buildCommand": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libSDL2_image.so",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a\\libSDL2_image.so",
+      "runtimeFiles": []
+    },
+    "cpufeatures-debug-arm64-v8a": {
+      "artifactName": "cpufeatures",
+      "buildCommand": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libcpufeatures.a",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a\\libcpufeatures.a",
+      "runtimeFiles": []
+    },
+    "webpdecoder_static-debug-arm64-v8a": {
+      "artifactName": "webpdecoder_static",
+      "buildCommand": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/hari0/OneDrive/Desktop/GitHub_Projects_AA/SerbiaBKC/android-project/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libwebpdecoder_static.a",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a\\libwebpdecoder_static.a",
+      "runtimeFiles": []
+    }
+  }
+}

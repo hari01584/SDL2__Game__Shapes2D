@@ -1,0 +1,20 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 16 min SDK version: x86_64",
+    "file": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\.cxx\\ndkBuild\\release\\x86_64\\android_gradle_build.json\u0027 was up-to-date",
+    "file": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk",
+    "tag": "release|x86_64"
+  }
+]
