@@ -1,4 +1,4 @@
-Executable : C:\Users\hari0\AppData\Local\Android\Sdk\ndk\21.0.6113669\ndk-build.cmd
+                    Executable : C:\Users\hari0\AppData\Local\Android\Sdk\ndk\21.0.6113669\ndk-build.cmd
 arguments : 
 NDK_PROJECT_PATH=null
 APP_BUILD_SCRIPT=C:\Users\hari0\OneDrive\Desktop\GitHub_Projects_AA\SerbiaBKC\android-project\app\jni\Android.mk
@@ -16,4 +16,6 @@ LOCAL_SHORT_COMMANDS=false
 -n
 jvmArgs : 
 
-Build command args:
+
+                    Build command args: []
+                    Version: 1

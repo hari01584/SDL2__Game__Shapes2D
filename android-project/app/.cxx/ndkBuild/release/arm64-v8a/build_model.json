@@ -1,10 +1,5 @@
 {
   "abi": "ARM64_V8A",
-  "abiPlatformVersion": 16,
-  "buildSettings": {
-    "environmentVariables": []
-  },
-  "cxxBuildFolder": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\.cxx\\ndkBuild\\release\\arm64-v8a",
   "info": {
     "abi": "ARM64_V8A",
     "bitness": 64,
@@ -12,31 +7,72 @@
     "default": true
   },
   "originalCxxBuildFolder": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\.cxx\\ndkBuild\\release\\arm64-v8a",
+  "cxxBuildFolder": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\.cxx\\ndkBuild\\release\\arm64-v8a",
+  "abiPlatformVersion": 16,
   "variant": {
     "buildSystemArgumentList": [
       "APP_PLATFORM\u003dandroid-16"
     ],
-    "buildTargetSet": [],
     "cFlagsList": [],
-    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
     "cppFlagsList": [],
+    "variantName": "release",
+    "objFolder": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local",
+    "soFolder": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\release\\lib",
     "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
     "module": {
-      "buildSystem": "NDK_BUILD",
-      "cmakeToolchainFile": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
       "cxxFolder": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\.cxx",
-      "gradleModulePathName": ":app",
+      "splitsAbiFilterSet": [],
       "intermediatesFolder": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates",
-      "makeFile": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk",
-      "moduleBuildFile": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build.gradle",
+      "gradleModulePathName": ":app",
       "moduleRootFolder": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app",
+      "moduleBuildFile": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build.gradle",
+      "makeFile": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\jni\\Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "ndkFolder": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669",
+      "ndkVersion": "21.0.6113669",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
       "ndkDefaultAbiList": [
         "ARMEABI_V7A",
         "ARM64_V8A",
         "X86",
         "X86_64"
       ],
-      "ndkFolder": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669",
+      "ndkDefaultStl": "SYSTEM",
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 29,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29
+        }
+      },
       "ndkMetaAbiList": [
         {
           "abi": "ARMEABI_V7A",
@@ -63,46 +99,8 @@
           "default": true
         }
       ],
-      "ndkMetaPlatforms": {
-        "min": 16,
-        "max": 29,
-        "aliases": {
-          "20": 19,
-          "25": 24,
-          "J": 16,
-          "J-MR1": 17,
-          "J-MR2": 18,
-          "K": 19,
-          "L": 21,
-          "L-MR1": 22,
-          "M": 23,
-          "N": 24,
-          "N-MR1": 24,
-          "O": 26,
-          "O-MR1": 27,
-          "P": 28,
-          "Q": 29
-        }
-      },
-      "ndkSupportedAbiList": [
-        "ARMEABI_V7A",
-        "ARM64_V8A",
-        "X86",
-        "X86_64"
-      ],
-      "ndkDefaultStl": "SYSTEM",
-      "ndkVersion": "21.0.6113669",
-      "project": {
-        "compilerSettingsCacheFolder": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\.cxx",
-        "cxxFolder": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\.cxx",
-        "isBuildOnlyTargetAbiEnabled": true,
-        "isCmakeBuildCohabitationEnabled": false,
-        "isNativeCompilerSettingsCacheEnabled": false,
-        "rootBuildGradleFolder": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project",
-        "sdkFolder": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk",
-        "isPrefabEnabled": false
-      },
-      "splitsAbiFilterSet": [],
+      "originalCmakeToolchainFile": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+      "cmakeToolchainFile": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
       "stlSharedObjectMap": {
         "LIBCXX_SHARED": {
           "ARMEABI_V7A": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
@@ -113,18 +111,24 @@
         "LIBCXX_STATIC": {},
         "NONE": {},
         "SYSTEM": {}
-      }
+      },
+      "project": {
+        "rootBuildGradleFolder": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project",
+        "cxxFolder": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\.cxx",
+        "compilerSettingsCacheFolder": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\.cxx",
+        "sdkFolder": "C:\\Users\\hari0\\AppData\\Local\\Android\\Sdk",
+        "isNativeCompilerSettingsCacheEnabled": false,
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false,
+        "isV2NativeModelEnabled": true
+      },
+      "nativeBuildOutputLevel": "QUIET"
     },
-    "objFolder": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local",
-    "variantName": "release",
-    "validAbiList": [
-      "ARMEABI_V7A",
-      "ARM64_V8A",
-      "X86",
-      "X86_64"
-    ],
-    "prefabDirectory": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\.cxx\\ndkBuild\\release\\prefab",
-    "prefabPackageDirectoryList": []
+    "prefabDirectory": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\.cxx\\ndkBuild\\release\\prefab"
+  },
+  "buildSettings": {
+    "environmentVariables": []
   },
   "prefabFolder": "C:\\Users\\hari0\\OneDrive\\Desktop\\GitHub_Projects_AA\\SerbiaBKC\\android-project\\app\\.cxx\\ndkBuild\\release\\prefab\\arm64-v8a"
 }
