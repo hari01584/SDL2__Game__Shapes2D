@@ -8,73 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="807ab2c1-c7fe-45d0-839f-9635c6314644" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/arm64-v8a/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/arm64-v8a/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/arm64-v8a/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/arm64-v8a/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/arm64-v8a/android_gradle_build_targets.command.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/arm64-v8a/android_gradle_build_targets.stderr.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/arm64-v8a/android_gradle_build_targets.stdout.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/arm64-v8a/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/arm64-v8a/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/arm64-v8a/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/arm64-v8a/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/arm64-v8a/build_output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/arm64-v8a/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/arm64-v8a/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/armeabi-v7a/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/armeabi-v7a/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/armeabi-v7a/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/armeabi-v7a/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/armeabi-v7a/android_gradle_build_targets.command.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/armeabi-v7a/android_gradle_build_targets.stderr.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/armeabi-v7a/android_gradle_build_targets.stdout.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/armeabi-v7a/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/armeabi-v7a/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/armeabi-v7a/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/armeabi-v7a/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/armeabi-v7a/build_output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/armeabi-v7a/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/armeabi-v7a/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/x86/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/x86/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/x86/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/x86/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/x86/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/x86/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/x86/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/x86/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/x86/build_output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/x86/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/debug/x86/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/arm64-v8a/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/arm64-v8a/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/arm64-v8a/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/arm64-v8a/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/arm64-v8a/android_gradle_build_targets.command.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/arm64-v8a/android_gradle_build_targets.stderr.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/arm64-v8a/android_gradle_build_targets.stdout.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/arm64-v8a/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/arm64-v8a/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/arm64-v8a/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/arm64-v8a/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/arm64-v8a/build_output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/arm64-v8a/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/arm64-v8a/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/armeabi-v7a/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/armeabi-v7a/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/armeabi-v7a/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/armeabi-v7a/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/armeabi-v7a/android_gradle_build_targets.command.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/armeabi-v7a/android_gradle_build_targets.stderr.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/armeabi-v7a/android_gradle_build_targets.stdout.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/armeabi-v7a/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/armeabi-v7a/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/armeabi-v7a/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/armeabi-v7a/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/armeabi-v7a/build_output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/armeabi-v7a/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/armeabi-v7a/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86/android_gradle_build_targets.command.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86/android_gradle_build_targets.stderr.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86/android_gradle_build_targets.stdout.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86/build_output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86_64/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86_64/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86_64/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86_64/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86_64/android_gradle_build_targets.command.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86_64/android_gradle_build_targets.stderr.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86_64/android_gradle_build_targets.stdout.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86_64/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86_64/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86_64/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86_64/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86_64/build_output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86_64/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/ndkBuild/release/x86_64/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
